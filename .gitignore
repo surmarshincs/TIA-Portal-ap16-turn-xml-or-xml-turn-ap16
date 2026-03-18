@@ -1,0 +1,17 @@
+# Build artifacts
+**/bin/
+**/obj/
+
+# IDE settings
+.vs/
+**/.vscode/
+
+# Backups / patches
+**/patch.diff
+
+# Siemens project files (binary, large). Keep your own locally.
+*.ap16
+
+# OS noise
+Thumbs.db
+Desktop.ini
